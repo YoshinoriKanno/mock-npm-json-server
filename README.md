@@ -1,6 +1,6 @@
 # Usage
 
-## Json-Server を起動する
+## JSON-Server を起動する
 
 ```
 npm run start-json-server
