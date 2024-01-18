@@ -1,11 +1,6 @@
 {
   "posts": [
     {
-      "title": "新しいタイトル",
-      "author": "新しい著者",
-      "id": 10
-    },
-    {
       "title": "タイトル",
       "author": "著者",
       "id": 11
@@ -33,111 +28,6 @@
   ],
   "comments": [
     {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 2
-    },
-    {
-      "text": "あdふぁsf",
-      "postId": "10",
-      "id": 3
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 4
-    },
-    {
-      "text": "あdふぁふぁ",
-      "postId": "10",
-      "id": 5
-    },
-    {
-      "text": "あsdふぁf",
-      "postId": "10",
-      "id": 6
-    },
-    {
-      "text": "あsdふぁdふぁ",
-      "postId": "10",
-      "id": 7
-    },
-    {
-      "text": "あdふぁdふぁ",
-      "postId": "10",
-      "id": 8
-    },
-    {
-      "text": "あdふぁ",
-      "postId": "10",
-      "id": 9
-    },
-    {
-      "text": "あdふぁ",
-      "postId": "10",
-      "id": 10
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 11
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 12
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 13
-    },
-    {
-      "text": "あdふぁ",
-      "postId": "10",
-      "id": 14
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 15
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 16
-    },
-    {
-      "text": "あdふぁdふぁd",
-      "postId": "10",
-      "id": 17
-    },
-    {
-      "text": "あdふぁ",
-      "postId": "10",
-      "id": 18
-    },
-    {
-      "text": "あdふぁ",
-      "postId": "10",
-      "id": 19
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 20
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 21
-    },
-    {
-      "text": "あdふぁ",
-      "postId": "10",
-      "id": 22
-    },
-    {
       "text": "202401181131",
       "postId": "14",
       "id": 23
@@ -153,16 +43,6 @@
       "id": 25
     },
     {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 26
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 27
-    },
-    {
       "text": "新しいコメント",
       "postId": "15",
       "id": 28
@@ -171,31 +51,6 @@
       "text": "ああ",
       "postId": "15",
       "id": 29
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 30
-    },
-    {
-      "text": "あsdふぁ",
-      "postId": "10",
-      "id": 31
-    },
-    {
-      "text": "asdfasdf",
-      "postId": "10",
-      "id": 32
-    },
-    {
-      "text": "かんのくん",
-      "postId": "10",
-      "id": 33
-    },
-    {
-      "text": "あああ",
-      "postId": "10",
-      "id": 34
     },
     {
       "text": "あdふぁ",
@@ -213,59 +68,9 @@
       "id": 37
     },
     {
-      "text": "ありがとう",
-      "postId": "10",
-      "id": 38
-    },
-    {
       "text": "どういたしまして",
       "postId": "11",
       "id": 39
-    },
-    {
-      "text": "うんこ",
-      "postId": "10",
-      "id": 40
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 41
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 42
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 43
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 44
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 45
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 46
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 47
-    },
-    {
-      "text": "asdfa",
-      "postId": "10",
-      "id": 48
     },
     {
       "text": "asdfa",
@@ -273,49 +78,24 @@
       "id": 49
     },
     {
-      "text": "asdfa",
-      "postId": "10",
+      "text": "コメントくん",
+      "postId": "11",
       "id": 50
     },
     {
-      "text": "ああ",
-      "postId": "10",
+      "text": "あああ",
+      "postId": "11",
       "id": 51
     },
     {
-      "text": "ああ",
-      "postId": "10",
+      "text": "あああ",
+      "postId": "11",
       "id": 52
     },
     {
-      "text": "ああ",
-      "postId": "10",
+      "text": "あああ",
+      "postId": "12",
       "id": 53
-    },
-    {
-      "text": "ああ",
-      "postId": "10",
-      "id": 54
-    },
-    {
-      "text": "ああああ",
-      "postId": "10",
-      "id": 55
-    },
-    {
-      "text": "ああああ",
-      "postId": "10",
-      "id": 56
-    },
-    {
-      "text": "ああああ",
-      "postId": "10",
-      "id": 57
-    },
-    {
-      "text": "ああああ",
-      "postId": "10",
-      "id": 58
     }
   ],
   "profile": {
