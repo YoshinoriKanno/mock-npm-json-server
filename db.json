@@ -273,9 +273,10 @@
     },
     {
       "avatar": "https://sessionize.com/image/6faa-400o400o2-amseBRDkdg7wSK5tjsFDiG.jpg",
-      "first": "Erick",
-      "last": "Tamayo",
+      "first": "Erickあああ",
+      "last": "Tamayoいいい",
       "twitter": "@ericktamayo",
+      "notes": "",
       "id": "erick-tamayo"
     },
     {
@@ -326,6 +327,7 @@
       "first": "Shane",
       "last": "Walker",
       "twitter": "@swalker326",
+      "favorite": true,
       "id": "shane-walker"
     },
     {
@@ -677,13 +679,6 @@
       "id": "rMSpsAD"
     },
     {
-      "avatar": "https://sessionize.com/image/a9fc-400o400o2-JHBnWZRoxp7QX74Hdac7AZ.jpg",
-      "first": "Shane",
-      "last": "Walker",
-      "twitter": "@swalker326",
-      "id": "fpCJ6z6"
-    },
-    {
       "avatar": "https://sessionize.com/image/f83b-400o400o2-Pyw3chmeHMxGsNoj3nQmWU.jpg",
       "first": "Sean",
       "last": "McQuaid",
@@ -875,13 +870,6 @@
       "id": "HCIGyUp"
     },
     {
-      "avatar": "https://sessionize.com/image/a9fc-400o400o2-JHBnWZRoxp7QX74Hdac7AZ.jpg",
-      "first": "Shane",
-      "last": "Walker",
-      "twitter": "@swalker326",
-      "id": "Pdnxwy-"
-    },
-    {
       "avatar": "https://sessionize.com/image/124e-400o400o2-wHVdAuNaxi8KJrgtN3ZKci.jpg",
       "first": "Shruti",
       "last": "Kapoor",
@@ -1021,6 +1009,7 @@
       "first": "Paul",
       "last": "Bratslavsky",
       "twitter": "@codingthirty",
+      "notes": "",
       "id": "CXSK1L-"
     },
     {
@@ -1209,13 +1198,6 @@
       "id": "IZjNGhb"
     },
     {
-      "avatar": "https://sessionize.com/image/feba-400o400o2-R4GE7eqegJNFf3cQ567obs.jpg",
-      "first": "Paul",
-      "last": "Bratslavsky",
-      "twitter": "@codingthirty",
-      "id": "j185Fuy"
-    },
-    {
       "avatar": "https://sessionize.com/image/eec1-400o400o2-HkvWKLFqecmFxLwqR9KMRw.jpg",
       "first": "Andre",
       "last": "Landgraf",
@@ -1244,13 +1226,6 @@
       "id": "fJLvpps"
     },
     {
-      "avatar": "https://sessionize.com/image/a9fc-400o400o2-JHBnWZRoxp7QX74Hdac7AZ.jpg",
-      "first": "Shane",
-      "last": "Walker",
-      "twitter": "@swalker326",
-      "id": "TnDv4kh"
-    },
-    {
       "avatar": "https://sessionize.com/image/f83b-400o400o2-Pyw3chmeHMxGsNoj3nQmWU.jpg",
       "first": "Sean",
       "last": "McQuaid",
@@ -1268,8 +1243,9 @@
       "first": "yo",
       "last": "ka",
       "twitter": "@yk",
-      "avatar": "",
+      "avatar": "https://sessionize.com/image/124e-400o400o2-wHVdAuNaxi8KJrgtN3ZKci.jpg",
       "notes": "yohi",
+      "favorite": true,
       "id": "WMWrPTr"
     },
     {
@@ -1401,13 +1377,6 @@
       "id": "PH3_2jy"
     },
     {
-      "avatar": "https://sessionize.com/image/6faa-400o400o2-amseBRDkdg7wSK5tjsFDiG.jpg",
-      "first": "Erick",
-      "last": "Tamayo",
-      "twitter": "@ericktamayo",
-      "id": "Gphc9yl"
-    },
-    {
       "avatar": "https://sessionize.com/image/30f1-400o400o2-wJBdJ6sFayjKmJycYKoHSe.jpg",
       "first": "Clifford",
       "last": "Fajardo",
@@ -1420,13 +1389,6 @@
       "last": "Cattori",
       "twitter": "@pcattori",
       "id": "xil1FNp"
-    },
-    {
-      "avatar": "https://sessionize.com/image/feba-400o400o2-R4GE7eqegJNFf3cQ567obs.jpg",
-      "first": "Paul",
-      "last": "Bratslavsky",
-      "twitter": "@codingthirty",
-      "id": "rQHh_Um"
     },
     {
       "avatar": "https://sessionize.com/image/c73a-400o400o2-4MTaTq6ftC15hqwtqUJmTC.jpg",
@@ -1464,11 +1426,12 @@
       "id": "SAUQ3jI"
     },
     {
-      "avatar": "https://sessionize.com/image/a9fc-400o400o2-JHBnWZRoxp7QX74Hdac7AZ.jpg",
-      "first": "Shane",
-      "last": "Walker",
-      "twitter": "@swalker326",
-      "id": "Qw_Ao6R"
+      "first": "ああ",
+      "last": "いい",
+      "twitter": " @aaii",
+      "avatar": "https://sessionize.com/image/124e-400o400o2-wHVdAuNaxi8KJrgtN3ZKci.jpg",
+      "notes": "のーと",
+      "id": "D0sZCtW"
     }
   ],
   "profile": {
